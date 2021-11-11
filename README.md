@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TadeoAc3
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning science, culture and some development :p
-- 💞️ I’m looking to collaborate on open source code
+- 💞️ I’m looking for to collaborate on open source code
 - 📫 How to reach me https://www.linkedin.com/in/tadeoac33/
 
 <!---
